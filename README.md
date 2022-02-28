@@ -8,6 +8,7 @@ This is a plugin for console!!!
 
 ```js
 // input code
+let foo;
 ```
 
 **Out**
@@ -16,6 +17,7 @@ This is a plugin for console!!!
 "use strict";
 
 // output code
+var foo = undefined;
 ```
 
 ## Installation
